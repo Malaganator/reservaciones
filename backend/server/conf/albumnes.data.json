@@ -1,40 +1,39 @@
 {
-    "Albunes": [
+    "Albumes": [
         {
-            "id":1,
+            "id": 1,
             "nombre": "Albun uno",
-            "fecha": "12/12/12",
-            "IdCategoria": 1
+            "fecha": "12/12/12"
         },
         {
-            "id":2,
+            "id": 2,
             "nombre": "Albun dos",
-            "fecha": "12/12/12",
-            "IdCategoria": 1
+            "fecha": "12/12/12"
         },
         {
-            "id":3,
+            "id": 3,
             "nombre": "Albun tres",
-            "fecha": "12/12/12",
-            "IdCategoria": 1
+            "fecha": "12/12/12"
         },
         {
-            "id":4,
+            "id": 4,
             "nombre": "Albun cuatro",
-            "fecha": "12/12/12",
-            "IdCategoria": 2
+            "fecha": "12/12/12"
         },
         {
-            "id":5,
+            "id": 5,
             "nombre": "Albun cinco",
-            "fecha": "12/12/12",
-            "IdCategoria": 3
+            "fecha": "12/12/12"
         },
         {
-            "id":6,
+            "id": 6,
             "nombre": "Albun 6",
-            "fecha": "12/12/12",
-            "IdCategoria": 4
-        }                                      
-    ]    
+            "fecha": "12/12/12"
+        },
+        {
+            "id": 10,
+            "nombre": "Album 10",
+            "fecha": "fecha"
+        }
+    ]
 }
