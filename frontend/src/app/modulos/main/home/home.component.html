@@ -1,0 +1,15 @@
+<div class="home">
+  <div class="home-content">
+    <h1>Home component</h1>
+    <div class="albums">
+      <div class="album" *ngFor="let album of albunes">
+        <div class="nombre">
+          {{album.nombre}}
+        </div>
+        <div class="fecha">
+          {{album.fecha}}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
