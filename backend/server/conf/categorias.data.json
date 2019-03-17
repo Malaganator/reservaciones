@@ -1,0 +1,20 @@
+{
+    "Categorias": [
+        {
+            "id": 1,
+            "nombre":"Rock"
+        },
+        {
+            "id": 2,
+            "nombre":"Pop"
+        },
+        {
+            "id": 3,
+            "nombre":"Balada"
+        },
+        {
+            "id": 4,
+            "nombre":"Regayton"
+        }                  
+    ]    
+}

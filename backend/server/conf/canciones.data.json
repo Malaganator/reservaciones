@@ -1,0 +1,83 @@
+{
+    "Canciones": [
+        {
+            "id": 1,
+            "nombre": "Cancion 1",
+            "duracion": 190,
+            "IdAlbum": 1
+        },
+        {
+            "id": 2,
+            "nombre": "Cancion asdf",
+            "duracion": 190,
+            "IdAlbum": 1
+        },
+        {
+            "id": 3,
+            "nombre": "Cancion asdfds",
+            "duracion": 190,
+            "IdAlbum": 1
+        },
+        {
+            "id": 4,
+            "nombre": "Cancion aaa",
+            "duracion": 190,
+            "IdAlbum": 2
+        },
+        {
+            "id": 5,
+            "nombre": "Cancion asdf",
+            "duracion": 190,
+            "IdAlbum": 2
+        },
+        {
+            "id": 6,
+            "nombre": "Cancion asfd",
+            "duracion": 190,
+            "IdAlbum": 3
+        },
+        {
+            "id": 7,
+            "nombre": "Cancion fdsa",
+            "duracion": 190,
+            "IdAlbum": 4
+        },
+        {
+            "id": 8,
+            "nombre": "Cancion as",
+            "duracion": 190,
+            "IdAlbum": 5
+        },
+        {
+            "id": 9,
+            "nombre": "Cancion fdsa",
+            "duracion": 190,
+            "IdAlbum": 5
+        },
+        {
+            "id": 10,
+            "nombre": "Cancion dfds",
+            "duracion": 190,
+            "IdAlbum": 6
+        },
+        {
+            "id": 11,
+            "nombre": "Cancion as",
+            "duracion": 190,
+            "IdAlbum": 6
+        },
+        {
+            "id": 12,
+            "nombre": "Cancionggggg",
+            "duracion": 190,
+            "IdAlbum": 3
+        },
+        {
+            "id": 13,
+            "nombre": "Cancion asdf",
+            "duracion": 190,
+            "IdAlbum": 2
+        }                                                                                        
+
+    ]    
+}

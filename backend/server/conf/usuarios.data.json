@@ -1,0 +1,46 @@
+{
+    "Usuarios": [
+        {
+            "id": 1,
+            "nombre": "Ulises Gonzalez",
+            "correo": "ulises@obisey.com",
+            "contrasena": "1234"
+        },
+        {
+            "id": 2,
+            "nombre": "Cesar Cordoba",
+            "correo": "cesar@obisey.com",
+            "contrasena": "1234"
+        },
+        {
+            "id": 3,
+            "nombre": "Ramon",
+            "correo": "ramon@obisey.com",
+            "contrasena": "1234"
+        },
+        {
+            "id": 4,
+            "nombre": "Josue Yepez",
+            "correo": "josue@obisey.com",
+            "contrasena": "1234"
+        },
+        {
+            "id": 5,
+            "nombre": "Fernando Jerezano",
+            "correo": "jerezano@obisey.com",
+            "contrasena": "1234"
+        },
+        {
+            "id": 11,
+            "nombre": "Malaganator",
+            "correo": "mail@mail.com",
+            "contrasena": "contrasena"
+        },
+        {
+            "id": 33,
+            "nombre": "El loco",
+            "correo": "loco@mail.com",
+            "contrasena": "loquito"
+        }
+    ]
+}

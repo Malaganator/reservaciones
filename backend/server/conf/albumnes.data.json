@@ -1,0 +1,40 @@
+{
+    "Albunes": [
+        {
+            "id":1,
+            "nombre": "Albun uno",
+            "fecha": "12/12/12",
+            "IdCategoria": 1
+        },
+        {
+            "id":2,
+            "nombre": "Albun dos",
+            "fecha": "12/12/12",
+            "IdCategoria": 1
+        },
+        {
+            "id":3,
+            "nombre": "Albun tres",
+            "fecha": "12/12/12",
+            "IdCategoria": 1
+        },
+        {
+            "id":4,
+            "nombre": "Albun cuatro",
+            "fecha": "12/12/12",
+            "IdCategoria": 2
+        },
+        {
+            "id":5,
+            "nombre": "Albun cinco",
+            "fecha": "12/12/12",
+            "IdCategoria": 3
+        },
+        {
+            "id":6,
+            "nombre": "Albun 6",
+            "fecha": "12/12/12",
+            "IdCategoria": 4
+        }                                      
+    ]    
+}
