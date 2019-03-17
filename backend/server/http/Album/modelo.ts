@@ -5,7 +5,7 @@ export class Album{
     private _id: number;
     private _nombre: string;
     private _fecha: string; 
-    private static albumes: Album[] = data.Albunes.map(n => new Album(n));
+    private static albumes: Album[] = data.Albumes.map(n => new Album(n));
 
     constructor(arg){
         this._id = arg.id;
