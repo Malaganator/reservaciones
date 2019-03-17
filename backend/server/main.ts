@@ -10,6 +10,7 @@ import morgan from 'morgan';
 import path from 'path';
 
 import { UsuarioRutas } from './http';
+import { AlbumRutas } from './http'
 
 
 interface ConfigCors {
@@ -65,10 +66,8 @@ export class ServerExpress {
 	}
 
 	private rutas() {
-
-		this.app.use(new UsuarioRutas().ruteador);
-
-
+		//this.app.use(new UsuarioRutas().ruteador);
+		this.app.use(new AlbumRutas().ruteador);
 	}
 
 	private configCors() {
